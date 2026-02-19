@@ -16,7 +16,6 @@ The default distribution is ubuntu2204. You can override th with setting the env
 * debian12
 =======
 * debian13
-* ubuntu2004
 * ubuntu2204
 * ubuntu2404
 
